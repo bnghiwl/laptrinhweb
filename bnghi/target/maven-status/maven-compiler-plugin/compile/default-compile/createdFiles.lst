@@ -1,0 +1,11 @@
+service\impl\UserServiceImpl.class
+controller\WaitingController.class
+dao\impl\UserDaoImpl.class
+com\mycompany\bnghi\resources\JakartaEE10Resource.class
+controller\LoginController.class
+com\mycompany\bnghi\JakartaRestConfiguration.class
+utils\DBConnection.class
+service\UserService.class
+dao\UserDao.class
+controller\RegisterController.class
+model\User.class
