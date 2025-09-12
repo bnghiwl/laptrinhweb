@@ -1,0 +1,5 @@
+<sitemesh>
+    <mapping path="/*" name="web" decorator="decorators/web.jsp"/>
+    <!-- exclude API endpoints if any -->
+    <mapping path="/api*" exclude="true"/>
+</sitemesh>
